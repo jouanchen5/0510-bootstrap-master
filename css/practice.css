@@ -1,0 +1,13 @@
+@charset "UTF-8";
+div img {
+  max-width: 100%;
+  height: auto;
+}
+
+.row div {padding:0;
+}
+
+ul li {
+list-style-type: none;
+text-align: center;
+}
